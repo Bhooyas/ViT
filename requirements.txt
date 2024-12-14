@@ -1,0 +1,6 @@
+torch==2.3.1+cu121
+datasets==2.20.0
+safetensors==0.4.3
+pillow==10.2.0
+h5py==3.11.0
+torchvision==0.19.1

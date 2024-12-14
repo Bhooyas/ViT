@@ -1,0 +1,9 @@
+__pycache__/
+checkpoint*/
+data/
+example_train.py
+test.py
+
+*.hdf5
+*.json
+*.safetensors
